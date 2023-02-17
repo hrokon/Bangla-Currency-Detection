@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873451459667",
+    "project_id": "currencydemu1",
+    "storage_bucket": "currencydemu1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873451459667:android:a651bae3dc3ec5875a22a6",
+        "android_client_info": {
+          "package_name": "com.example.testing1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873451459667-1ua3u6tu72ur0pp0psra39fk8s8njo4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxq4OCwZK6bg5LSl6abdSIL-82g3Kz7Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873451459667-1ua3u6tu72ur0pp0psra39fk8s8njo4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
